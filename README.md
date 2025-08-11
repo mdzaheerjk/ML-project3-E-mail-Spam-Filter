@@ -8,6 +8,7 @@ A machine learning project for spam email classification using Naive Bayes.
 
 ---
 
+
 ## 🚀 Project Overview
 
 This repository contains a simple spam filter built using the Naive Bayes algorithm. The project demonstrates how machine learning can be applied to classify emails as spam or non-spam (ham) based on their content.
